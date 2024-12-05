@@ -1,0 +1,45 @@
+{
+    "imagens":[
+        {
+            "caminho": "../assets/galeria/ambiente.jpg",
+            "descricao": "Interior de restaurante."
+        },
+        {
+            "caminho": "../assets/galeria/ambiente1.jpg",
+            "descricao": "Garçon servindo."
+        },
+        {
+            "caminho": "../assets/galeria/mesa4.jpg",
+            "descricao": "Mesa posta."
+        },
+        {
+            "caminho": "../assets/galeria/mesa5.jpg",
+            "descricao": "Homem comendo."
+        },
+        {
+            "caminho": "../assets/galeria/mesa10.jpg",
+            "descricao": "Prato com petiscos e suco."
+        },
+        {
+            "caminho": "../assets/galeria/pratos.jpg",
+            "descricao": "Duas pessoas comendo."
+        },
+        {
+            "caminho": "../assets/galeria/ambiente3.jpg",
+            "descricao": "Mulheres brindando."
+        },
+        {
+            "caminho": "../assets/galeria/ambiente4.jpg",
+            "descricao": "Mesas."
+        },
+        {
+            "caminho": "../assets/galeria/exterior.jpg",
+            "descricao": "Exterior de restaurante."
+        },
+        {
+            "caminho": "../assets/galeria/ambiente5.jpg",
+            "descricao": "Pessoas à mesa."
+        }
+        
+    ]
+}

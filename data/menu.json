@@ -1,0 +1,70 @@
+{
+    "menu":[
+        {
+            "image": "../assets/cardapio/almondega.jpg",
+            "alt":"Prato de almôndega, batata e maionese",
+            "title":"Almôndegas com batata",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et urna lobortis, porta nisl vel, finibus ipsum. Praesent mattis ac massa in eleifend."
+
+        },
+        {
+            "image": "../assets/cardapio/couscous2.jpg",
+            "alt":"Prato de couscous com vegetais",
+            "title":"Couscous",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et urna lobortis, porta nisl vel, finibus ipsum. Praesent mattis ac massa in eleifend."
+
+        },
+        {
+            "image": "../assets/cardapio/lasanha.jpg",
+            "alt":"Mesa com lasanha, pão, farinha, etc.",
+            "title":"Lasanha",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et urna lobortis, porta nisl vel, finibus ipsum. Praesent mattis ac massa in eleifend."
+
+        },
+        {
+            "image": "../assets/cardapio/macarrao.jpg",
+            "alt":"Prato fundo com macarrão.",
+            "title":"Macarrão com legumes",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et urna lobortis, porta nisl vel, finibus ipsum. Praesent mattis ac massa in eleifend."
+
+        },
+        {
+            "image": "../assets/cardapio/mingau.jpg",
+            "alt":"Mingau decorado com bananas, amêndoas, etc.",
+            "title":"Mingau de amêndoas",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et urna lobortis, porta nisl vel, finibus ipsum. Praesent mattis ac massa in eleifend."
+
+        },
+        {
+            "image": "../assets/cardapio/omelete.jpg",
+            "alt":"Omelete com vegetais",
+            "title":"Omelete",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et urna lobortis, porta nisl vel, finibus ipsum. Praesent mattis ac massa in eleifend."
+
+        },
+        {
+            "image": "../assets/cardapio/salada_abacate.jpg",
+            "alt":"Tacos com abacate, tomate, milho, etc.",
+            "title":"Tacos",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et urna lobortis, porta nisl vel, finibus ipsum. Praesent mattis ac massa in eleifend."
+
+        },
+        
+        {
+            "image": "../assets/cardapio/sopa.jpg",
+            "alt":"Prato com sopa.",
+            "title":"Sopa",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et urna lobortis, porta nisl vel, finibus ipsum. Praesent mattis ac massa in eleifend."
+
+        },
+
+        {
+            "image": "../assets/cardapio/salada.jpg",
+            "alt":"Prato com salada.",
+            "title":"Salada",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et urna lobortis, porta nisl vel, finibus ipsum. Praesent mattis ac massa in eleifend."
+
+        }
+        
+    ]
+}
